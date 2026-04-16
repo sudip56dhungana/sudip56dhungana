@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sudip dhungana</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3>What's up?</h3></h3>
 
 - 🔭 I’m currently working on **SAAS Product**
 
@@ -50,11 +50,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
